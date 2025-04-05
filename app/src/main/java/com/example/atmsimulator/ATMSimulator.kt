@@ -3,7 +3,7 @@ package com.example.atmsimulator
 
 fun main() {
 
-    var balance = 1000.0 // initial balance
+    var balance = 1000.0 // initial balance in bank
     var isRunning = true
 
     while (isRunning) {
